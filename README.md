@@ -2,8 +2,7 @@
 
 A responsive, high-converting real estate landing page built using React and Tailwind CSS to showcase property listings, capture leads, and enhance your agency’s online presence.
 
-
-- [Features](#features-)
+- [Features](#features)
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
