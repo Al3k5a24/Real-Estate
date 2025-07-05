@@ -28,7 +28,6 @@ A responsive, high-converting real estate landing page built using React and Tai
 
 ## Screenshots
 
-
 ## Tech Stack
 
 - **React**
