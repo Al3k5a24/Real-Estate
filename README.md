@@ -20,13 +20,11 @@ A responsive, high-converting real estate landing page built using React and Tai
 - **Lightweight and Fast Loading**
 
 ---
-
-## Demo
-<p align="center">
-  <img src="/images/demo-gif.gif" alt="Coding GIF" width="800"/>
-</p>
-
 ## Screenshots
+
+<p align="center">
+  <img src="/images/About.png" width="500"/>
+</p>
 
 ## Tech Stack
 
