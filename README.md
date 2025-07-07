@@ -23,7 +23,11 @@ A responsive, high-converting real estate landing page built using React and Tai
 ## Screenshots
 
 <p align="center">
-  <img src="/images/About.png" width="500"/>
+  <img src="/Images/Home.png" width="700"/>
+  <img src="/Images/About.png" width="700"/>
+  <img src="/Images/Projects.png" width="700"/>
+  <img src="/Images/Testimonials.png" width="700"/>
+  <img src="/Images/Contat.png" width="700"/>
 </p>
 
 ## Tech Stack
